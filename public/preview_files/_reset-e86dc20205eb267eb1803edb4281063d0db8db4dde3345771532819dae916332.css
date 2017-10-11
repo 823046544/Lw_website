@@ -1,0 +1,276 @@
+html {
+	margin: 0px; padding: 0px;
+}
+body {
+	margin: 0px; padding: 0px;
+}
+h1 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+h2 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+h3 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+h4 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+h5 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+h6 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+p {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+blockquote {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+pre {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+a {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+abbr {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+acronym {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+address {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+cite {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+code {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+del {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+dfn {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+em {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+img {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+q {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+s {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+samp {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+small {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+strike {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+strong {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+sub {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+sup {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+tt {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+var {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+dd {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+dl {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+dt {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+li {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+ol {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+ul {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+fieldset {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+form {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+label {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+input {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+textarea {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+legend {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+button {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+table {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+caption {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+tbody {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+tfoot {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+thead {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+tr {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+th {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+td {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-family: inherit; font-size: 100%; font-style: normal; font-weight: normal;
+}
+table {
+	border-collapse: collapse; border-spacing: 0;
+}
+ol {
+	list-style: none;
+}
+ul {
+	list-style: none;
+}
+q::before {
+	content: "";
+}
+q::after {
+	content: "";
+}
+blockquote::before {
+	content: "";
+}
+blockquote::after {
+	content: "";
+}
+html {
+	font-size: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
+}
+a:focus {
+	outline: dotted thin;
+}
+article {
+	display: block;
+}
+aside {
+	display: block;
+}
+details {
+	display: block;
+}
+figcaption {
+	display: block;
+}
+figure {
+	display: block;
+}
+footer {
+	display: block;
+}
+header {
+	display: block;
+}
+hgroup {
+	display: block;
+}
+nav {
+	display: block;
+}
+section {
+	display: block;
+}
+audio {
+	display: inline-block;
+}
+canvas {
+	display: inline-block;
+}
+video {
+	display: inline-block;
+}
+audio:not([controls]) {
+	display: none;
+}
+sub {
+	line-height: 0; font-size: 75%; vertical-align: baseline; position: relative;
+}
+sup {
+	line-height: 0; font-size: 75%; vertical-align: baseline; position: relative;
+}
+sup {
+	top: -0.5em;
+}
+sub {
+	bottom: -0.25em;
+}
+img {
+	border: 0px currentColor; border-image: none; -ms-interpolation-mode: bicubic;
+}
+nav {
+	clear: both; display: block;
+}
+section {
+	clear: both; display: block;
+}
+aside {
+	clear: both; display: block;
+}
+article {
+	clear: both; display: block;
+}
+figure {
+	clear: both; display: block;
+}
+header {
+	clear: both; display: block;
+}
+footer {
+	clear: both; display: block;
+}
+hgroup {
+	clear: both; display: block;
+}
+a {
+	text-decoration: none;
+}
+nav ul {
+	list-style-type: none;
+}
+footer ul {
+	list-style-type: none;
+}
+html {
+	line-height: 1; font-size: 14px;
+}
